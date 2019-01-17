@@ -1,8 +1,10 @@
 # test-nuxt-with-jest
 
-> My first-class Nuxt.js project
+Testing Nuxt.js application using JestJs.
+This contains for the moments only the needed settings.
+Later I will add some examples.
 
-## Build Setup
+## How to use
 
 ``` bash
 # install dependencies
@@ -11,12 +13,8 @@ $ yarn install
 # serve with hot reload at localhost:3000
 $ yarn run dev
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## To do
+Add examples
+
