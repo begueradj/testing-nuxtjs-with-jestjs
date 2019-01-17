@@ -1,8 +1,8 @@
 {
   "name": "test-nuxt-with-jest",
   "version": "1.0.0",
-  "description": "My first-class Nuxt.js project",
-  "author": "begueradj",
+  "description": "How to test Nuxt.js with Jest (JestJs)",
+  "author": "billal begueradj",
   "private": true,
   "scripts": {
     "dev": "nuxt",
