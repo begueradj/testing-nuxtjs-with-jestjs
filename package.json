@@ -48,11 +48,12 @@
     "transform": {
       ".*\\.(vue)$": "vue-jest",
       "^.+.vue$": "vue-jest",
-      "^@+.vue$": "vue-jest",
       "^.+.js$": "babel-jest"
     },
     "moduleNameMapper": {
-      "^@/(.*)$": "<rootDir>/$1"
+      "^@/(.*)$": "<rootDir>/$1",
+      "^~/(.*)$": "<rootDir>/$1",
+      "^~~/(.*)$": "<rootDir>/$1"
     },
     "snapshotSerializers": [
       "jest-serializer-vue"
