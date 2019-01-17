@@ -1,7 +1,7 @@
-# test-nuxt-with-jest
+# testing-nuxt-with-jest
 
-Testing Nuxt.js application using JestJs.
-This contains for the moments only the needed settings.
+The purpose of this repository is to demonstrate how to test a Nuxt.js application using Jest.<br/>
+This contains for the moments only the needed settings.<br/>
 Later I will add some examples.
 
 ## How to use
@@ -16,5 +16,5 @@ $ yarn run dev
 ```
 
 ## To do
-Add examples
+Add examples...
 
