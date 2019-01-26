@@ -6,7 +6,7 @@
       v-model="drawer"
       fixed
       app
-    >
+      primary>
       <v-list>
         <v-list-tile
           v-for="(item, i) in items"
